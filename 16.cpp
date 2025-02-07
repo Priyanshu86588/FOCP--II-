@@ -1,3 +1,4 @@
+//write a program that determines whether two integers are opposits in sign without using conditional statements.
 #include <iostream>
 
 bool areOppositeSigns(int a, int b) {
